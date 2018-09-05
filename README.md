@@ -9,3 +9,5 @@ The Plots folder contains individual plots for the ratings of each of our 9 metr
 The list of subject libraries can be found in the file List of Final Subject Java Libraries.xlsx
 
 The metric data that we extracted for our subject libraries can be found in the file Metric Data for Subject Libraries.xlsx. The metric data was extracted in the month of January, 2018.
+
+Statistical tests performed for RQ1 and RQ2 of our paper can be found in the Scripts folder.
