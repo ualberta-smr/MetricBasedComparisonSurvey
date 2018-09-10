@@ -11,4 +11,4 @@ This repository contains survey data collected as part of our work in the paper 
 
 # Contributors
 - Fernando López de la Mora (lopezdel at ualberta dot ca)
-- Sarah Nadi (snadi at ualberta dot ca)
+- Sarah Nadi (nadi at ualberta dot ca)
