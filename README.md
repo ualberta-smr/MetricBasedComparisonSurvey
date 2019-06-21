@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/146949068.svg)](https://zenodo.org/badge/latestdoi/146949068)
+
 # MetricBasedComparisonSurvey
 
 This repository contains survey data collected as part of our work in the paper **An Empirical Study of Metric-based Comparisons of Software Libraries**, which can be found [here](https://dl.dropboxusercontent.com/s/v5hdbnywsycvt1q/LopezDeLaMoraPROMISE18.pdf). The contents of this repository are the following:
